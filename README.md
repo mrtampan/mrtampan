@@ -3,8 +3,6 @@
 
 Hi, My name is achmad rivaldi, i'm a programmer frontend vuejs and backend laravel. i want to make the best system for open source world
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on company
 - 🌱 I’m currently learning vuejs and laravel
 - 😄 I'm natively speak Indonesian and fluently speak english.
