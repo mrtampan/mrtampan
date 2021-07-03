@@ -1,7 +1,5 @@
-
-### Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-Hi, My name is achmad rivaldi, i'm a programmer frontend vuejs and backend laravel. i want to make the best system for open source world
+<h1 align="center">Hi, I'm Achmad Rivaldi😎</h1>
+<h3 align="center">A programming developer from Indonesia</h3>
 
 - 🔭 I’m currently working on company
 - 🌱 I’m currently learning vuejs and laravel
