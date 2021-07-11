@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on company
 - 🌱 I’m currently learning vuejs and laravel
-- 😄 I'm natively speak Indonesian and fluently speak english.
+- 😄 I'm natively speak Indonesian.
 - ⚡ Fun fact: i like anime, twice, gfriend, redvelvet
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan">
