@@ -2,7 +2,6 @@
 <h3 align="center">A programming developer from Indonesia</h3>
 
 
-
 <details>
   <summary>Description BIO</summary>
 
@@ -30,4 +29,14 @@ Support Me On:
 
 </details>
 
+<details>
+  <summary>My stats in Github</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrtampan&show_icons=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrtampan">
+</details>
+
+<details>
+  <summary>My Wakatime breakdown</summary>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtampan54&layout=compact">
+</details>
 
