@@ -37,6 +37,6 @@ Support Me On:
 
 <details>
   <summary>My Wakatime breakdown</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtampan54&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtampan&layout=compact">
 </details>
 
