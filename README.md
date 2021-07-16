@@ -35,8 +35,4 @@ Support Me On:
   <img src="https://github-profile-trophy.vercel.app/?username=mrtampan">
 </details>
 
-<details>
-  <summary>My Wakatime breakdown</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtampan&layout=compact">
-</details>
 
