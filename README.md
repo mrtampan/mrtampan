@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on company
 - 🌱 I’m currently learning vuejs and laravel
 - 😄 I'm natively speak Indonesian.
-- ⚡ Fun fact: i like anime, twice, gfriend, redvelvet
+- ⚡ Fun fact: i'am anime lover and kpop fans
 </details>
 
 <details>
@@ -35,11 +35,4 @@ Support Me On:
   <img src="https://github-profile-trophy.vercel.app/?username=mrtampan">
 </details>
 
-<details>
-  <summary>Wallet Crypto</summary>
-  
-- Bnb: 0xb20DE0558C026263E86f4Bb6dBD4535d7E0C9afd
-- Eth: 0xb20DE0558C026263E86f4Bb6dBD4535d7E0C9afd
-- Polygon: 0xb20DE0558C026263E86f4Bb6dBD4535d7E0C9afd
-</details>
 
