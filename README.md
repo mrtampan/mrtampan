@@ -16,6 +16,19 @@
   <a href="https://github.com/mrtampan/github-readme-stats"><img alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&langs_count=8&count_private=false&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
 </details>
 
+<details>
+   <summary>Role</summary>
+
+
+- Blockchain Enthusiast
+- Javascript Developer
+- VueJS Developer
+- Php Developer
+- Laravel Developer
+- Solidity Junior Dev
+
+</details>
+
 
 <details>
    <summary>Donate</summary>
