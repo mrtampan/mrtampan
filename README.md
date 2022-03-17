@@ -19,7 +19,7 @@
 <details>
    <summary>Role</summary>
 
-
+My special ability: 
 - Blockchain Enthusiast
 - Javascript Developer
 - VueJS Developer
