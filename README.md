@@ -25,6 +25,7 @@ My special ability:
 - VueJS Developer
 - Php Developer
 - Laravel Developer
+- Flutter Developer
 - Solidity Junior Dev
 
 </details>
