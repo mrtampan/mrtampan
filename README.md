@@ -13,7 +13,7 @@
 
 <details>
   <summary>Top Language Github</summary>
-  <a href="https://github.com/mrtampan/github-readme-stats"><img alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&langs_count=10&count_private=false&hide_border=false&bg_color=white" /></a>
+  <a href="https://github.com/mrtampan/github-readme-stats"><img alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&langs_count=5&count_private=false&hide_border=false&bg_color=white" /></a>
 </details>
 
 <details>
