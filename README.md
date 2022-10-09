@@ -1,4 +1,5 @@
-[![@mrtampan's Holopin board](https://holopin.io/api/user/board?user=mrtampan)](https://holopin.io/@mrtampan)
+
+
 ## Hi, I'm Achmad Rivaldi😎
 
 I'm just a fullstack developer
@@ -27,12 +28,6 @@ I'm just a fullstack developer
   <img src="https://github-readme-stats.vercel.app/api?username=mrtampan&show_icons=true">
 
 
-## Donate
-
-- 👉 🌍 [Shiba Inu] 0xff5446ad232aab1943c6aa0492383eea0e0c1cf1
-- 👉 🌍 [Doge] DGoX5QBSPx6hhWdM6vX9C7FfmU11gTsp96
-- 👉 🌍 [Bitcoin] 1DcW4Smp4i7s7wPoMq6nybfANn9iBbRnYG
-- 👉 🌍 [BTT] TEN1KMp9T6ofwfB3owbeJbPqabHszFcV6E
 
 
 
