@@ -17,7 +17,6 @@ I'm just a fullstack developer
 - Laravel Developer
 - Flutter Developer
 - AlpineJS Developer
-- Solidity Developer
 - IT Helpdesk Software
 - Linux System Administrator
 - Blockchain Enthusiast
