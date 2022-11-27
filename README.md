@@ -77,6 +77,6 @@ I'm just a fullstack developer
 
 ## View
 
-![:name](https://count.getloli.com/get/@:mrtampan)
+![:name](https://count.getloli.com/get/@:mrtampan?theme=rule34)
 
 
