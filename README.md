@@ -80,8 +80,5 @@ I'm just a fullstack developer
 - Linux System Administrator
 - Blockchain Enthusiast
 
-## View
-
-![:name](https://count.getloli.com/get/@:mrtampan?theme=rule34)
 
 
