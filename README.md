@@ -7,7 +7,7 @@ I'm just a fullstack developer
 - 🔭 I’m currently working on company
 - 🌱 I’m currently learning vuejs and laravel
 - 😄 I'm natively speak Indonesian.
-- ⚡ Fun fact: i'am anime lover and kpop fans
+- ⚡ Fun fact: you can talk me about linux or windows
 
 <table>
 	<tr>
@@ -63,11 +63,6 @@ I'm just a fullstack developer
 
   <a href="https://github.com/mrtampan/github-readme-stats"><img alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&langs_count=5&count_private=false&hide_border=false&bg_color=white&layout=compact" /></a>
 
-## Donate
-
-- BNB (BEP20): 0xff5446ad232aab1943c6aa0492383eea0e0c1cf1
-- Matic Polygon: 0xff5446ad232aab1943c6aa0492383eea0e0c1cf1
-
 ## Role
 
 - Javascript Developer 
@@ -79,6 +74,7 @@ I'm just a fullstack developer
 - IT Helpdesk Software
 - Linux System Administrator
 - Blockchain Enthusiast
+- Open Source Software Enthusiast
 
 
 
