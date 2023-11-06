@@ -1,8 +1,8 @@
 
 
-## Hi, I'm Achmad Rivaldi😎
+## Hello, Everyone✨
 
-I'm just a fullstack developer
+I'm Achmad Rivaldi, a software developer who likes fixing bugs
 
 - 🔭 I’m currently working on company
 - 🌱 I’m currently learning vuejs and laravel
@@ -55,26 +55,11 @@ I'm just a fullstack developer
 		</td>
 	</tr>
 </table>
-<br>
 
 [![@mrtampan's Holopin board](https://holopin.me/mrtampan)](https://holopin.io/@mrtampan)
 
-<br>
-
   <a href="https://github.com/mrtampan/github-readme-stats"><img alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&langs_count=5&count_private=false&hide_border=false&bg_color=white&layout=compact" /></a>
 
-## Role
-
-- Javascript Developer 
-- VueJS Developer
-- Php Developer
-- Laravel Developer
-- Flutter Developer
-- AlpineJS Developer
-- IT Helpdesk Software
-- Linux System Administrator
-- Blockchain Enthusiast
-- Open Source Software Enthusiast
 
 
 
