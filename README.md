@@ -58,7 +58,8 @@ I'm Achmad Rivaldi, a software developer who likes fixing bugs
 
 [![@mrtampan's Holopin board](https://holopin.me/mrtampan)](https://holopin.io/@mrtampan)
 
-  <a href="https://github.com/mrtampan/github-readme-stats"><img alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&langs_count=5&count_private=false&hide_border=false&bg_color=white&layout=compact" /></a>
+  <p><img align="left" alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&show_icons=true&locale=en&layout=compact" /></p>
+  <p><img alt="Mrtampan Stats" src="https://github-readme-stats.vercel.app/api?username=mrtampan&show_icons=true&locale=en" /> </p>
 
 
 
