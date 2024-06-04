@@ -9,6 +9,8 @@ I'm Achmad Rivaldi, a software developer who likes fixing bugs
 - 😄 I'm natively speak Indonesian.
 - ⚡ Fun fact: you can talk me about linux or windows
 
+---
+
 <table>
 	<tr>
 		<td>Front-End</td>
@@ -56,11 +58,15 @@ I'm Achmad Rivaldi, a software developer who likes fixing bugs
 	</tr>
 </table>
 
+---
+
 [![@mrtampan's Holopin board](https://holopin.me/mrtampan)](https://holopin.io/@mrtampan)
 
-  <p><img align="left" alt="Mrtampan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtampan&show_icons=true&locale=en&layout=compact" /></p>
-  <p><img alt="Mrtampan Stats" src="https://github-readme-stats.vercel.app/api?username=mrtampan&show_icons=true&locale=en" /> </p>
+---
+  
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtampan&theme=nord_dark)
 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtampan&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtampan&theme=nord_dark)
 
 
 
